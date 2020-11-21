@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "CSS/HTML layout creation in no time!",
+      "description": "Grab a cup of coffee and enjoy :)",
+      "id": 3
+    },
+    {
+      "title": "Lets create reusable component!",
+      "description": "React.js",
+      "id": 6
+    },
+    {
+      "title": "Attractive title",
+      "description": "Some meaningful description",
+      "id": 7
+    }
+  ]
+}
